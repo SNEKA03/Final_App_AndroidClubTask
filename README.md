@@ -33,9 +33,9 @@ App name: ThinkUp
 
 - Sweta: Integrating the API with the App,generating the code and creating the mainscreen
 - Sneka: Styling,login Screen code ,quotes
-- Ruthrapriya: Buttons, Icons, Navigation
+- Ruthrapriya: Buttons, Icons, Navigation,merging of screens
 
-T
+
 
  ThinkUp App - Quote generator
 
